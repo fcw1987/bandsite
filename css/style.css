@@ -1,0 +1,32 @@
+.gh {
+  border: 5px dotted blue;
+  padding: 5px;
+  margin: 15px;
+  background-color: green;
+
+}
+
+.rs {
+  border: 5px dotted red;
+  padding: 5px;
+  margin: 15px;
+  background-color: yellow;
+
+}
+
+.pm {
+  border: 5px dotted black;
+  padding: 5px;
+  margin: 15px;
+  background-color: gray;
+
+}
+
+.jl {
+  border: 5px dotted purple;
+  padding: 5px;
+  margin: 15px;
+  background-color: black;
+  color: white;
+
+}
